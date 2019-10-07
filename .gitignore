@@ -1,0 +1,7 @@
+contests/template.ipynb
+sandbox/
+.ipynb_checkpoints/
+contests/.ipynb_checkpoints/
+lib/.ipynb_checkpoints/
+examples/.ipynb_checkpoints/
+past_problems/.ipynb_checkpoints/
