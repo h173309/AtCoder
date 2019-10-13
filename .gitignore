@@ -1,7 +1,9 @@
 contests/template.ipynb
-sandbox/
+past_problems/template.ipynb
 .ipynb_checkpoints/
 contests/.ipynb_checkpoints/
 lib/.ipynb_checkpoints/
 examples/.ipynb_checkpoints/
 past_problems/.ipynb_checkpoints/
+lib/__pycache__/
+sandbox/
